@@ -1,0 +1,81 @@
+﻿Build started 09/10/2014 23:01:08.
+     1>Project "F:\First Year\Games & Graphics\First Term\Assignment v2.2\Pacman\Pacman.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Pacman.cpp
+         Pacman.cpp
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(8): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(61): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(140): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(141): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(142): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(164): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(221): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(224): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(230): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(254): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(255): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(256): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(257): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(258): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(259): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(260): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(287): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(307): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(497): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(560): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(592): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(602): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(624): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(628): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(634): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(638): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(651): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(676): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(682): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(690): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(693): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(728): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(746): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(751): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(761): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(766): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(777): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(828): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(846): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(879): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(892): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(897): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(898): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(904): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(910): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(940): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(966): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(972): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(992): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(993): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(994): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1023): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1040): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1046): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1067): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1072): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1073): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1078): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1244): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1245): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1282): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1310): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1311): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\first year\games & graphics\first term\assignment v2.2\pacman\pacman.cpp(1347): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\First Year\Games & Graphics\First Term\Assignment v2.2\Debug\Pacman.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\First Year\Games & Graphics\First Term\Assignment v2.2\Debug\Pacman.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\First Year\Games & Graphics\First Term\Assignment v2.2\Debug\Pacman.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Pacman.obj
+         Pacman.vcxproj -> F:\First Year\Games & Graphics\First Term\Assignment v2.2\Debug\Pacman.exe
+     1>Done Building Project "F:\First Year\Games & Graphics\First Term\Assignment v2.2\Pacman\Pacman.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.06
